@@ -1,0 +1,11 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+h1{
+    color:saddlebrown;
+    font-size: 40px
+}
+.imagemcomborda{
+    border: solid 3px saddlebrown;
+}
